@@ -1,0 +1,189 @@
+body{
+	background-color: grey;
+	font-size: 16px;
+	text-align: center;
+}
+#content{
+	background-color: rgb(1,10,89);
+	/*height:1500px;*/
+	width: 780px;
+	border: 2px solid;
+	margin: 0px auto;
+}
+#head{
+	background-color: rgb(255,180,1);
+	/*background-image: url("Online-casino.jpg");*/
+	height: 125px;
+	width: 780px;
+	margin: 0px auto;
+}
+#header{
+	font-size:12px;
+	
+}
+#header2{
+	font-size:10px;
+}
+#internet{
+	background-image:url("menubg.jpg");
+	background-repeat: repeat;
+	height:188px;
+	width:122px;
+	margin:4px;
+	border: 4px solid rgb(4,152,250);
+	
+}
+#info{
+	background-image:url("menubg.jpg");
+	background-repeat: repeat;
+	height:280px;
+	width:122px;
+	margin:4px;
+	border: 4px solid rgb(4,152,250);
+	
+}
+#topbar{
+	background-image:url("topbar.gif");
+	background-repeat: repeat;
+	/*background-color: rgb(255,255,255);*/
+	height: 18px;
+	width: 780px;
+	
+	margin: 0px auto;
+	
+}
+#menuBtn{
+	background-image:url("menubutton1.jpg");
+	background-repeat: repeat;
+	height:18px;
+	width: 122px;
+	margin-top:8px;
+	margin-bottom:12px;
+	
+}
+#menuBtn2{
+	background-image:url("menu2button.jpg");
+	background-repeat: no-repeat;
+	height:13px;
+	width: 122px;
+	margin-top:7px;
+	margin-bottom:7px;
+	text-align:left;
+	padding: 0px 0px 0px 18px;
+}
+
+#left{
+	background-color: rgb(1,10,89);
+	height: 800px;
+	width: 140px;
+	margin: 0px auto;
+	float: left;
+}
+#middle{
+	background-color: rgb(1,10,89);
+	height: 800px;
+	width: 500px;
+	margin: 0px auto;
+	float: left;
+	padding: 2px 0px 0px 0px;
+}
+#paragraph{
+	height:135px;
+	width: 480px;
+	margin-left: 8px;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-bottom: 8px;
+	background-color: rgb(254,0,0);
+	padding: 1px 1px 10px 1px;
+	
+}
+#right{
+	background-color: rgb(1,10,89);
+	height: 800px;
+	width: 140px;
+	margin: 0px auto;
+	float: left;
+}
+#bottombar{
+	background-image:url("btmbar.gif");
+	background-repeat: repeat;
+	height: 18px;
+	width: 780px;
+	margin: 0px auto;
+	
+}
+#takeLeft{
+	float:left;
+}
+#generic{
+	height:125px;
+	width:125px;
+	background-image: url(genericaddr.jpg);
+	margin:6px;
+	/*padding: 102px 0px 0px 0px;*/
+}
+
+#headLine{
+	width:280px;
+	float:left;
+	color:yellow;
+	padding:0px 0px 0px 25px;
+	font-size:12px;
+	font-family:Arial;
+}
+#mainPara{
+	width:468px;
+	color : white;
+	font-size:11px;
+	
+	text-align:justify;
+}
+#generic p {
+
+	padding: 102px 0px 0px 0px;
+
+}
+#download{
+	background-image: url("downloadbg.jpg");
+	background-repeat: repeat;
+	height:200px;
+	width:130px;
+	margin:2px auto;
+}
+#download h6{
+	padding: 5px 3px 0px 0px;
+	color:white;
+}
+#downP{
+	padding: 10px 0px 0px 0px;
+	color:white;
+	font-size:12px;
+	text-align:justify;
+	width:110px;
+	padding:0px 0px 0px 5px;
+
+}
+#link{
+	padding: 15px 0px 0px 0px;
+}
+#footer{
+	background-color: rgb(1,10,89);
+	height: 80px;
+	width: 780px;
+	margin: 0px auto;
+	float: left;
+	
+}
+#footer a{
+color:white;
+font-size:12px;
+}
+#footer p{
+color:white;
+font-size:12px;
+font-family: Arial;
+}
+a{
+	text-decoration:none;
+}
